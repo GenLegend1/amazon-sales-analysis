@@ -42,3 +42,19 @@ Inventory planning should align with identified peak demand periods to avoid sto
 
 This project demonstrates the ability to work with real-world e-commerce data, clean and transform datasets, perform exploratory analysis, build meaningful visualizations, apply time-series forecasting techniques, and communicate insights in a clear and structured way. It also reflects an understanding of how data analysis supports real business decisions.
 
+**How to Run This Project**
+
+**To run this project on your machine:**
+
+1. 	Clone the repository
+
+2. 	Install all required libraries
+
+3. 	Open the Jupyter notebooks
+Launch Jupyter Notebook and open any file inside the  folder.
+4. 	Load project functions
+Each notebook automatically loads reusable functions from the  folder using:
+
+
+5. 	Run the notebook cells
+Execute each cell from top to bottom to reproduce the data cleaning, EDA, feature engineering, forecasting, and visualizations.
